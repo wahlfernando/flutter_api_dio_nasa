@@ -11,10 +11,10 @@ API liberada para testes e estudos.
 		
   
 ## Como proceder para execução do APP
-  
-  1 - Abra o conteudo baixado no VS Code ou no Android Studio;
-  2 - Será solicitado para ajustar o path dos packages utilizados no App.
-  3 - Execute o App em ceu celular ou emulador.
+
+	1 - Abra o conteudo baixado no VS Code ou no Android Studio;
+	2 - Será solicitado para ajustar o path dos packages utilizados no App.
+	3 - Execute o App em ceu celular ou emulador.
 	
 *** ATENÇÃO: A API da nasa tem um limite de utilização por hora, caso não apareça as infomrações espere uma hora para que esteam disponíveis novamente.
 	
